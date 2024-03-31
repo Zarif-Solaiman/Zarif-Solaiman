@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python, C and Javascript.
+I'm currently in my 3rd year at the University of Western Australia majoring in Artificial Intelligence.
 
 
 ## 🌐 Socials:
